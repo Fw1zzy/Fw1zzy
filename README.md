@@ -1,7 +1,7 @@
 Hi! My name is Emmanuel Pascua 😄
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in the Philippines.
+🌍  I am a Software Developer based in the Philippines.
 <br/>
 
 ### Skills
